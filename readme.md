@@ -171,9 +171,7 @@ Here is my **[CV](https://withabhinay.me/resume)**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaygiri&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinaygiri&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
