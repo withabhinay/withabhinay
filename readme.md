@@ -164,18 +164,15 @@ Here is my **[CV](https://withabhinay.me/resume)**
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
- 
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinaygiri&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaygiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaygiri&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaygiri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinaygiri&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
