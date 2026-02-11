@@ -1,4 +1,8 @@
+<div align="center">
+
 # ✨ Abhinay Giri ✨✨✨ - Developer
+
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/3z6Yv2W8G0AAAAAC/luffy-one-piece.gif" width="420" />
@@ -10,14 +14,20 @@
 
 ---
 
-I don’t take long to figure things out.  
+<p align="center">
+I don't take long to figure things out.
+</p>
 
-Read all about me here: **[Portfolio](https://withabhinay.me)**  
-Would love to share my notes: **[Notes](https://abhi-blog.vercel.app/)** :)
+<p align="center">
+Read all about me here: <b><a href="https://withabhinay.me">Portfolio</a></b><br/>
+Would love to share my notes: <b><a href="https://abhi-blog.vercel.app/">Notes</a></b> :)
+</p>
 
 ---
 
-## 🧠 Tech Stack
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -116,9 +126,11 @@ Would love to share my notes: **[Notes](https://abhi-blog.vercel.app/)** :)
 
 </table>
 
+</div>
+
 ---
 
-## 🥷 About Me
+<h2 align="center">🥷 About Me</h2>
 
 <table>
 <tr>
@@ -148,47 +160,47 @@ Here is my **[CV](https://withabhinay.me/resume)**
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaygiri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaygiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaygiri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinaygiri&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaygiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤔 FAQs 🤔
+<h2 align="center">🤔 FAQs 🤔</h2>
+
+<div align="center">
 
 ### Which Code Editor do I use?
-VS Code. Of course. It’s the best.
+VS Code. Of course. It's the best.
 
 ### Which OS do I use?
 I use Arch btw on my desktop computer.  
 While traveling, I have my Macbook in my backpack.
 
 ### Why am I so diverse?
-I love working on projects that build our future. I stay on a topic that interests me for some time and go deep into it. Then I explore something new but stay connected to the previous ones. I don’t like missing out on anything.
+I love working on projects that build our future. I stay on a topic that interests me for some time and go deep into it. Then I explore something new but stay connected to the previous ones. I don't like missing out on anything.
 
 ### What more do I do outside my computer?
-Running & football — call me anytime for this. I’m in.
+Running & football — call me anytime for this. I'm in.
 
 ### What do I do when I get bored?
 I watch anime, YouTube, or have long discussions with my friends about tech, ideas, and random theories.
 
----
-
-## 🚀 Currently Exploring
-- System design  
-- Distributed systems  
-- Machine learning fundamentals  
-- Low-level programming  
+</div>
 
 ---
 
-## 🎭 ✨
+<h2 align="center">🎭 ✨</h2>
 
 <p align="center">
   <img src="https://media.tenor.com/8b9p0x8b7bAAAAAC/korukoru-gojo-satoru.gif" width="320" />
