@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/3z6Yv2W8G0AAAAAC/luffy-one-piece.gif" width="420" />
+  <img src="one.gif" width="420" />
 </p>
 
 <p align="center">
@@ -119,8 +119,8 @@ Would love to share my notes: <b><a href="https://abhi-blog.vercel.app/">Notes</
   <a href="https://github.com/Abhinaygiri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://withabhinay.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhinaygiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <a href="https://leetcode.com/Abhinaygiri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://stackoverflow.com/users/your-id"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </td>
 </tr>
 
@@ -131,6 +131,8 @@ Would love to share my notes: <b><a href="https://abhi-blog.vercel.app/">Notes</
 ---
 
 <h2 align="center">🥷 About Me</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -152,11 +154,13 @@ Here is my **[CV](https://withabhinay.me/resume)**
 
 <td width="40%" align="center">
 
-<img src="https://media.tenor.com/WtJd0u2P8lAAAAAC/gojo-you-crying.gif" width="250" />
+<img src="Gojo.gif" width="250" />
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -176,9 +180,17 @@ Here is my **[CV](https://withabhinay.me/resume)**
 
 ---
 
-<h2 align="center">🤔 FAQs 🤔</h2>
+<p align="center">
+  <i>just wanted to add this master peice of one peice</i>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="two.gif" width="420" />
+</p>
+
+---
+
+## 🤔 FAQs 🤔
 
 ### Which Code Editor do I use?
 VS Code. Of course. It's the best.
@@ -196,7 +208,16 @@ Running & football — call me anytime for this. I'm in.
 ### What do I do when I get bored?
 I watch anime, YouTube, or have long discussions with my friends about tech, ideas, and random theories.
 
-</div>
+---
+
+<h2 align="center">🚀 Currently Exploring</h2>
+
+<p align="center">
+• System design<br/>
+• Distributed systems<br/>
+• Machine learning fundamentals<br/>
+• Low-level programming
+</p>
 
 ---
 
@@ -208,6 +229,10 @@ I watch anime, YouTube, or have long discussions with my friends about tech, ide
 
 <p align="center">
   <b>System wants me to do that.</b>
+</p>
+
+<p align="center">
+  <img src="hint.jpeg" width="300" />
 </p>
 
 <p align="center">
