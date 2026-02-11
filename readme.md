@@ -164,15 +164,18 @@ Here is my **[CV](https://withabhinay.me/resume)**
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaygiri&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinaygiri&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaygiri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaygiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaygiri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
